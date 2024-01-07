@@ -34,3 +34,8 @@ Buat kalian yang butuh jasa saya, saya berterimakasih banyak walaupun cuma 50k i
 
 
 Silahkan kalian kontak instagram / facebook ya
+
+
+### Information
+
+Gw bisa bikin lebih dari ini kalo otak gw udah sehat lagi saat ini gw lagi depresi banget tolong siapapun beli jasa aku
