@@ -1,6 +1,12 @@
-# FAXL APP UI
+[Screencast from 2024-01-08 01-18-43.webm](https://github.com/FaxlDev/faxl_app_ui/assets/155615623/eb32cbca-b452-4e10-bb6b-54301ebdc584)# FAXL APP UI
 
 FAXL APP UI Sebuah project contoh buat kalian siapa tahu mau pakai jasa aku
+
+## DEMO
+
+[Screencast from 2024-01-08 01-18-43.webm](https://github.com/FaxlDev/faxl_app_ui/assets/155615623/63827360-df69-462f-9f9b-78aa4797d02b)
+
+---
 
 ## Development / Mencoba Run
 
