@@ -1,0 +1,71 @@
+name: faxl_app_ui
+description: "A Faxl App Project"
+version: 0.0.0
+homepage: https://github.com/FaxlDev/faxl_app_ui
+repository: https://github.com/FaxlDev/faxl_app_ui
+issue_tracker: https://github.com/FaxlDev/faxl_app_ui
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  faxl_lib: ^0.0.16
+  faxl_lib_flutter: ^0.0.15
+  path: ^1.8.3
+  universal_io: ^2.2.2
+  path_provider: ^2.1.1
+  package_info_plus: ^5.0.1
+  translate_client: ^0.0.2
+  http: ^1.1.2
+  cool_alert: ^2.0.1
+  flutter_hicons: ^0.1.0
+  flutter_chat_ui: ^1.6.10
+  intl: ^0.19.0
+  collection: ^1.18.0
+  scroll_to_index: ^3.0.1
+  flutter_chat_types: ^3.6.2
+  emoji_picker_flutter: ^1.6.3
+  iconsax: ^0.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+  
+
+flutter:
+  uses-material-design: true
+
+
+  assets:    
+    - assets/icons/
+    - assets/images/
+    # - assets/icons/ 
+  fonts:
+    - family: NotoEmoji
+      fonts:
+        - asset: assets/fonts/NotoEmoji-Regular.ttf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
+        
